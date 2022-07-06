@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "containers",
+        "2": "technical",
+        "3": "media"
+    },
+    "demo_page": "https://glasseffect-application.bubbleapps.io/version-test/glasseffectpage",
+    "description": "With this plugin you are able to create the glass effect and assign to HTML elements according to their ID attribute. \n\nhttps://bubble.io/page?type=page&name=glasseffectpage&id=glasseffect-application&tab=tabs-1",
+    "image": "//s3.amazonaws.com/appforest_uf/f1655391514584x619419039059485800/Screenshot%202022-06-16%20at%2016.58.04.png",
+    "license": "open_source",
+    "link": "",
+    "name": "Glass Effect",
+    "plugin_instructions": "To use it, please turn on the ID attribute on settings. More information here:\nhttps://forum.bubble.io/t/how-do-you-enable-an-id-attribute-to-a-input-box-or-any-item/112195"
+}
